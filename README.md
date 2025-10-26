@@ -27,10 +27,7 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 
-    
 
 **How it works:**
 <img width="1756" height="748" alt="image" src="https://github.com/user-attachments/assets/6bc0230c-8fa3-4c8d-b8e9-a11b4118b48b" />
@@ -43,4 +40,5 @@
 - So if I was to say: “move the dog to the mouse” the LLM will focus on 2 objects, a dog and a mouse. Meanwhile the VLM will create bounding boxes around all objects it can detect/identify in the video feed. Then only the bounding boxes with the identification of ‘dog’ or ‘mouse’ will be focused on. And finally, the robotic arm, which is the reference point, will start moving to the mouse.
 
 
-
+**Example run:**
+![Adobe Express - Working test run (2)](https://github.com/user-attachments/assets/50bebfc6-4ae9-447d-aad9-c1abe6507192)
