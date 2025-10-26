@@ -22,9 +22,9 @@
 - Pyrealsense2 - Library to connect intelrealsense camera to python program
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/8cc6ef8c-e4b7-45d3-834c-2d537ba1ef30" />
 
-//
-//
-//
+
+
+    
 
 **How it works:**
 <img width="1756" height="748" alt="image" src="https://github.com/user-attachments/assets/6bc0230c-8fa3-4c8d-b8e9-a11b4118b48b" />
