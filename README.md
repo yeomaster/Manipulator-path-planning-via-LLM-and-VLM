@@ -20,7 +20,9 @@
 - YOLOv5 – used to detect objects in video in real-time 
 - CLIP Model – Match text prompt to detect objects from YOLOv5 
 - Pyrealsense2 - Library to connect intelrealsense camera to python program
-<img width="757" height="568" alt="image" src="https://github.com/user-attachments/assets/8cc6ef8c-e4b7-45d3-834c-2d537ba1ef30" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/8cc6ef8c-e4b7-45d3-834c-2d537ba1ef30" />
+
+
 
 
 **How it works:**
@@ -33,6 +35,5 @@
 - ‘dog’ will be moved to the location of the prompted object
 - So if I was to say: “move the dog to the mouse” the LLM will focus on 2 objects, a dog and a mouse. Meanwhile the VLM will create bounding boxes around all objects it can detect/identify in the video feed. Then only the bounding boxes with the identification of ‘dog’ or ‘mouse’ will be focused on. And finally, the robotic arm, which is the reference point, will start moving to the mouse.
 
-<img width="731" height="566" alt="image" src="https://github.com/user-attachments/assets/1e445a23-87af-4e83-9cd8-04682da745e4" />
 
 
