@@ -41,4 +41,5 @@
 
 
 **Example run:**
+<br>
 ![Adobe Express - Working test run (2)](https://github.com/user-attachments/assets/50bebfc6-4ae9-447d-aad9-c1abe6507192)
